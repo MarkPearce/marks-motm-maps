@@ -1,8 +1,8 @@
 {
   "name": "marks-motm-maps",
   "title": "Mark's Mark of the Mantis Maps",
-  "description": "Maps for Mark of the Mantis, Standalone Adventure, Redone.  Assets by Forgottten-Adventures.net and Tom Cartos.",
-  "version": "1.0.0",
+  "description": "Maps for Mark of the Mantis, the PF2E standalone adventure - redone.  Assets by Forgottten-Adventures.net and Tom Cartos.",
+  "version": "1.0.3",
   "author": "Mark Pearce",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
@@ -15,6 +15,6 @@
       "type": "Scene"
     }
   ],
-  "manifest": "https://github.com/MarkPearce/marks-motm-maps/blob/main/module.json",
-  "download": "https://github.com/MarkPearce/marks-motm-maps/releases/tag/MMotMM-1.0.2.zip"
+  "manifest": "https://github.com/MarkPearce/marks-motm-maps/releases/download/latest/module.json",
+  "download": "https://github.com/MarkPearce/marks-motm-maps/releases/download/1.0.3/MMotMM.zip"
 }
