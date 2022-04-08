@@ -1,26 +1,12 @@
 {
   "name": "marks-motm-maps",
   "title": "Mark's Mark of the Mantis Maps",
-  "description": "Community maps for Mark of the Mantis, Standalone Adventure",
+  "description": "Maps for Mark of the Mantis, Standalone Adventure, Redone.  Assets by Forgottten-Adventures.net and Tom Cartos.",
   "version": "1.0.0",
-  "author": "Me",
+  "author": "Mark Pearce",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
   "packs": [
-    {
-      "name": "module-creatures",
-      "label": "Module Creatures",
-      "path": "./packs/creatures.db",
-      "entity": "Actor",
-      "type": "Actor"
-    },
-    {
-      "name": "module-items",
-      "label": "Module Items",
-      "path": "./packs/items.db",
-      "entity": "Item",
-      "type": "Item"
-    },
     {
       "name": "marks-motm-maps",
       "label": "Mark's MotM Maps",
@@ -57,6 +43,6 @@
       "type": "Playlist"
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  "manifest": "https://github.com/MarkPearce/marks-motm-maps/blob/main/module.json",
+  "download": "https://github.com/MarkPearce/marks-motm-maps/archive/refs/tags/MMotMM.zip"
 }
