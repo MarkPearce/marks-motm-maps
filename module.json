@@ -44,5 +44,5 @@
     }
   ],
   "manifest": "https://github.com/MarkPearce/marks-motm-maps/blob/main/module.json",
-  "download": "https://github.com/MarkPearce/marks-motm-maps/archive/refs/tags/MMotMM.zip"
+  "download": "https://github.com/MarkPearce/marks-motm-maps/releases/latest/MMotMM.zip"
 }
